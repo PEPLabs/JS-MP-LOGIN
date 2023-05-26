@@ -3,7 +3,7 @@
 
 ## Description
 
-In this mini project you'll be expected to take code a login using concepts you've learned in HTML and JS. YOu'll need knowledge of HTML, JavaScript, and DOM Manipulation to complete this mini project.
+In this mini project you'll be expected to code a login using concepts you've learned in HTML and JS. YOu'll need knowledge of HTML, JavaScript, and DOM Manipulation to complete this mini project.
 
 
 ## Where to start
